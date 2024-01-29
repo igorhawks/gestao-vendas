@@ -1,0 +1,10 @@
+com\japaimport\gestao\venda\modelo\dominio\Produto.class
+com\japaimport\gestao\venda\Main.class
+com\japaimport\gestao\venda\modelo\dominio\Usuario.class
+com\japaimport\gestao\venda\modelo\conexao\ConexaoMysql.class
+com\japaimport\gestao\venda\modelo\dominio\Venda.class
+com\japaimport\gestao\venda\modelo\dominio\Categoria.class
+com\japaimport\gestao\venda\modelo\dominio\Perfil.class
+com\japaimport\gestao\venda\modelo\dominio\VendaItem.class
+com\japaimport\gestao\venda\modelo\dominio\Cliente.class
+com\japaimport\gestao\venda\modelo\conexao\Conexao.class
