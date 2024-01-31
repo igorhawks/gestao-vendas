@@ -26,11 +26,11 @@ public class Usuario {
     }
 
    
-    public Usuario(long id, String nome, String senha, String usuario, Perfil prefil, LocalDateTime dataHoraCriacao, LocalDateTime ultimoLogin) {
+    public Usuario(long id, String nome, String usuario, String senha, Perfil prefil, LocalDateTime dataHoraCriacao, LocalDateTime ultimoLogin) {
         this.id = id;
         this.nome = nome;
-        this.senha = senha;
         this.usuario = usuario;
+        this.senha = senha;
         this.prefil = prefil;
         this.dataHoraCriacao = dataHoraCriacao;
         this.ultimoLogin = ultimoLogin;
